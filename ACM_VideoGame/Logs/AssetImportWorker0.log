@@ -734,3 +734,228 @@ Received Import Request.
 Start importing Assets/Free Pixel Space Platform Pack/Ladders/Ladder_02.png using Guid(9a23dc9da5aeadf4384f2ef234210a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b6562499753017e31d881001038f259') in 0.019543 seconds 
   Import took 0.022565 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 555.028063 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileDown.png
+  artifactKey: Guid(d2a5aa6ad9ecd36438e3d96c46673937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileDown.png using Guid(d2a5aa6ad9ecd36438e3d96c46673937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3e289f96bac51cdbec1808ec6a4a4cf') in 0.022032 seconds 
+  Import took 0.025247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.734973 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileDown.png
+  artifactKey: Guid(d2a5aa6ad9ecd36438e3d96c46673937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileDown.png using Guid(d2a5aa6ad9ecd36438e3d96c46673937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c827d445cf5082efd9b68e28300dca5') in 0.021421 seconds 
+  Import took 0.024468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.239741 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileDown.png
+  artifactKey: Guid(d2a5aa6ad9ecd36438e3d96c46673937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileDown.png using Guid(d2a5aa6ad9ecd36438e3d96c46673937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5314a3f26bc6b0847f7e5f9ea1409dc') in 0.021173 seconds 
+  Import took 0.024970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 170.426446 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileDown.png
+  artifactKey: Guid(d2a5aa6ad9ecd36438e3d96c46673937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileDown.png using Guid(d2a5aa6ad9ecd36438e3d96c46673937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9abb6d2744ce9ed0b8bb60ffc8d5c54') in 0.027820 seconds 
+  Import took 0.032300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.248582 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileDown.png
+  artifactKey: Guid(d2a5aa6ad9ecd36438e3d96c46673937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileDown.png using Guid(d2a5aa6ad9ecd36438e3d96c46673937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c290e8a43f71d43ffc79909a5038d2b8') in 0.030574 seconds 
+  Import took 0.034291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 290.630999 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileLeftUp.png
+  artifactKey: Guid(ff793d54fae323941b4955f1ab01f702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileLeftUp.png using Guid(ff793d54fae323941b4955f1ab01f702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ea839ae36494b7367c470c93fd7cff6') in 0.020765 seconds 
+  Import took 0.024438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.673454 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/Size Adjusted
+  artifactKey: Guid(8af18f5ccd7194ddc870f02ef5d1d921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/Size Adjusted using Guid(8af18f5ccd7194ddc870f02ef5d1d921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17826e2124248eee2196aff70ef26f52') in 0.001445 seconds 
+  Import took 0.005004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.314163 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/Size Adjusted/output-onlinepngtools.png
+  artifactKey: Guid(d3c774133251d49cbbf4e28298ba14c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/Size Adjusted/output-onlinepngtools.png using Guid(d3c774133251d49cbbf4e28298ba14c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '932a5511067fedcdbc5936f6014943f4') in 0.011345 seconds 
+  Import took 0.014753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004809 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/Size Adjusted/output-onlinepngtools.png
+  artifactKey: Guid(d3c774133251d49cbbf4e28298ba14c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/Size Adjusted/output-onlinepngtools.png using Guid(d3c774133251d49cbbf4e28298ba14c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '932a5511067fedcdbc5936f6014943f4') in 0.008793 seconds 
+  Import took 0.011851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.170903 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/Size Adjusted/output-onlinepngtools.png
+  artifactKey: Guid(d3c774133251d49cbbf4e28298ba14c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/Size Adjusted/output-onlinepngtools.png using Guid(d3c774133251d49cbbf4e28298ba14c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a695532bdc4673c3e9207db8b4b9b0c3') in 0.016890 seconds 
+  Import took 0.020024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 146.236857 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Portal/PortalOff.png
+  artifactKey: Guid(ecb1aaf3f627cd44e80d674bfd9228f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Portal/PortalOff.png using Guid(ecb1aaf3f627cd44e80d674bfd9228f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49518a531b79baa38f33969b2d32440d') in 0.013574 seconds 
+  Import took 0.017001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Portal/PortalOn.png
+  artifactKey: Guid(a250755ac1951bb4fa0ea9b06a3408a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Portal/PortalOn.png using Guid(a250755ac1951bb4fa0ea9b06a3408a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d37660a25d57ad8f60c9f6c449ca18b') in 0.035810 seconds 
+  Import took 0.038647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 426.490076 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileDown.png
+  artifactKey: Guid(d2a5aa6ad9ecd36438e3d96c46673937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileDown.png using Guid(d2a5aa6ad9ecd36438e3d96c46673937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a10f08dd4102e7327deb951e0bfa5ad4') in 0.025404 seconds 
+  Import took 0.029362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001711 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileDown.png
+  artifactKey: Guid(d2a5aa6ad9ecd36438e3d96c46673937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileDown.png using Guid(d2a5aa6ad9ecd36438e3d96c46673937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a10f08dd4102e7327deb951e0bfa5ad4') in 0.012603 seconds 
+  Import took 0.015683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 525.640834 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileForward.png
+  artifactKey: Guid(046b0256d2fa2c64fb3a7689fffbaf3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileForward.png using Guid(046b0256d2fa2c64fb3a7689fffbaf3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d42fe41e30acab1c43f67af0eadab6e') in 0.025161 seconds 
+  Import took 0.028056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 113.646149 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileForward.png
+  artifactKey: Guid(046b0256d2fa2c64fb3a7689fffbaf3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileForward.png using Guid(046b0256d2fa2c64fb3a7689fffbaf3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '628fbf382c9596202987070a4d142c5d') in 0.031433 seconds 
+  Import took 0.034397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.809569 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileForward.png
+  artifactKey: Guid(046b0256d2fa2c64fb3a7689fffbaf3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileForward.png using Guid(046b0256d2fa2c64fb3a7689fffbaf3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c094741d09cd64e2b99cf9de3bd28bb2') in 0.013106 seconds 
+  Import took 0.016337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 394.789543 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileForward.png
+  artifactKey: Guid(046b0256d2fa2c64fb3a7689fffbaf3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileForward.png using Guid(046b0256d2fa2c64fb3a7689fffbaf3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b575bdfa0eed19feae47d156f655b4cd') in 0.008142 seconds 
+  Import took 0.011847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.565080 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Lever/LeverDown.png
+  artifactKey: Guid(53fe5536596828e4d825b293ed6fa148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Lever/LeverDown.png using Guid(53fe5536596828e4d825b293ed6fa148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e10d4169250e39f4fa481ebb7317db0a') in 0.013069 seconds 
+  Import took 0.016414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Lever/LeverUp.png
+  artifactKey: Guid(d002eee2b7a4ced4d82149a2f764a3b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Lever/LeverUp.png using Guid(d002eee2b7a4ced4d82149a2f764a3b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e117eecbbf4eecd3933f55698c5ef4bb') in 0.023783 seconds 
+  Import took 0.026742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.549123 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Crystals/Crystal_01.png
+  artifactKey: Guid(74a5671230dc7084fa09de6ca3a551ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Crystals/Crystal_01.png using Guid(74a5671230dc7084fa09de6ca3a551ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f47a6115dc009ac5c5e080114013b1a') in 0.016450 seconds 
+  Import took 0.019476 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003255 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.187 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1188ms)
+		BeginReloadAssembly (202ms)
+			ExecutionOrderSort (1ms)
+			DisableScriptedObjects (17ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (116ms)
+		EndReloadAssembly (925ms)
+			LoadAssemblies (75ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (354ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (335ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (253ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2085 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 189.5 MB.
+System memory in use after: 189.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2556.
+Total: 3.878906 ms (FindLiveObjects: 0.241668 ms CreateObjectMapping: 0.082729 ms MarkObjects: 3.533578 ms  DeleteObjects: 0.020031 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
