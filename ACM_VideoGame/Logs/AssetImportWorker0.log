@@ -526,3 +526,211 @@ Received Import Request.
 Start importing Assets/Free Pixel Space Platform Pack/Boxes/Box_02.png using Guid(3893185237368e74eab199e2a1a99651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34138b9584f0d2a250de9c821a602cd3') in 0.011691 seconds 
   Import took 0.015556 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 394.655695 seconds.
+  path: Assets/Terrain.prefab
+  artifactKey: Guid(05b4713c988ef403a8be81ff9130d36e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain.prefab using Guid(05b4713c988ef403a8be81ff9130d36e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e48ab245e8935411f03f02a0107eec') in 0.535132 seconds 
+  Import took 0.538595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.175130 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Spikes/Spike_01.png
+  artifactKey: Guid(2bf6f07b07a95fa4b82d50ebaa4d46c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Spikes/Spike_01.png using Guid(2bf6f07b07a95fa4b82d50ebaa4d46c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffe1a46df0bede80dcf4c61ab485f646') in 0.014978 seconds 
+  Import took 0.018374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Spikes/Spike_04.png
+  artifactKey: Guid(9a80b48bb9ff266408fd34f946cae49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Spikes/Spike_04.png using Guid(9a80b48bb9ff266408fd34f946cae49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f9ad81352ae51785cd032abdf18fc4') in 0.018523 seconds 
+  Import took 0.021506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Spikes/Spike_03.png
+  artifactKey: Guid(f9ca9e3ba4deed54988fe281e5ccf4ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Spikes/Spike_03.png using Guid(f9ca9e3ba4deed54988fe281e5ccf4ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4b84d72ecce799b1ec372de04308fc4') in 0.019463 seconds 
+  Import took 0.022163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Spikes/Spike_02.png
+  artifactKey: Guid(dddd89db6df12524186d273282174949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Spikes/Spike_02.png using Guid(dddd89db6df12524186d273282174949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87c86f743c441cc2a6b047b0aeba14f7') in 0.013029 seconds 
+  Import took 0.015758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Spikes/Spike_05.png
+  artifactKey: Guid(787eeb44b2cc7a347be0f5bcae610819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Spikes/Spike_05.png using Guid(787eeb44b2cc7a347be0f5bcae610819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8585466b7a4e4b661292063fa5c00ee2') in 0.009700 seconds 
+  Import took 0.012183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.190694 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Spikes/Spike_01.png
+  artifactKey: Guid(2bf6f07b07a95fa4b82d50ebaa4d46c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Spikes/Spike_01.png using Guid(2bf6f07b07a95fa4b82d50ebaa4d46c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de3e26605d999d610949cbb8797a06d2') in 0.019855 seconds 
+  Import took 0.023217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.237469 seconds.
+  path: Assets/Terrain.prefab
+  artifactKey: Guid(05b4713c988ef403a8be81ff9130d36e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain.prefab using Guid(05b4713c988ef403a8be81ff9130d36e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '507a5a55c32621da1442a10d85e8d7d0') in 0.038725 seconds 
+  Import took 0.042199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.379130 seconds.
+  path: Assets/Terrain/LeftSteps.asset
+  artifactKey: Guid(8c31d06953c7d4d68a3177ccfea111d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/LeftSteps.asset using Guid(8c31d06953c7d4d68a3177ccfea111d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd658975c6704ef552507f2be500d861') in 0.017145 seconds 
+  Import took 0.020126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Terrain/TileLeft.asset
+  artifactKey: Guid(2fc2985faf3ed46858467508c224ee02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TileLeft.asset using Guid(2fc2985faf3ed46858467508c224ee02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2aefe432d0a7f4f4359e4cfff0efe24') in 0.006986 seconds 
+  Import took 0.009963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Terrain/TileLeftRight.asset
+  artifactKey: Guid(d7ecfa193a8444e43a8437c3c25803d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TileLeftRight.asset using Guid(d7ecfa193a8444e43a8437c3c25803d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5232a90e6d0476580a4119add840535') in 0.006454 seconds 
+  Import took 0.009412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Terrain/TileUp.asset
+  artifactKey: Guid(64e67dabaa6454337af03592e2c705d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TileUp.asset using Guid(64e67dabaa6454337af03592e2c705d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fac130f836695b5092c15ea43b9eaacc') in 0.007205 seconds 
+  Import took 0.009710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Terrain/TileUpDown.asset
+  artifactKey: Guid(8553eaaa75324424a86022b8b511ac63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TileUpDown.asset using Guid(8553eaaa75324424a86022b8b511ac63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc649869b1b020452dae9acb4ce0ddf1') in 0.007254 seconds 
+  Import took 0.009823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Terrain/TileDown.asset
+  artifactKey: Guid(464dc780daff5444982dd1e9f9af2601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TileDown.asset using Guid(464dc780daff5444982dd1e9f9af2601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbafb1d9d76ec489443b2807ed8d126d') in 0.005854 seconds 
+  Import took 0.008220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Terrain/RightSteps.asset
+  artifactKey: Guid(fdbc2d5c24f274d1d83e78f2aaa0b429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/RightSteps.asset using Guid(fdbc2d5c24f274d1d83e78f2aaa0b429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d5b6175323889e4b6d899e8193e9b01') in 0.006413 seconds 
+  Import took 0.009155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Terrain/TileLeftDown.asset
+  artifactKey: Guid(dca036712cdfb4e64a76226e53e4b173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TileLeftDown.asset using Guid(dca036712cdfb4e64a76226e53e4b173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8f7eb73372d52d017cbeb15b18c2ca5') in 0.007458 seconds 
+  Import took 0.010376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Terrain/TileUpRight.asset
+  artifactKey: Guid(372675898103240fbbd21ecde34e2229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TileUpRight.asset using Guid(372675898103240fbbd21ecde34e2229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89bc4bb761d4118cc902237f2aa42815') in 0.006173 seconds 
+  Import took 0.008786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Terrain/TileRightDown.asset
+  artifactKey: Guid(b3a9667587a0d46158cbdbb3ec4ea026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TileRightDown.asset using Guid(b3a9667587a0d46158cbdbb3ec4ea026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f3585f728f865de1f08029a92da38a5') in 0.006951 seconds 
+  Import took 0.009576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Terrain/TileFull.asset
+  artifactKey: Guid(cd4fdb9acb0a74a01b7bebbad5e9c446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TileFull.asset using Guid(cd4fdb9acb0a74a01b7bebbad5e9c446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34723ce17c41614338b2887a22545a27') in 0.006992 seconds 
+  Import took 0.009689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Terrain/TileRight.asset
+  artifactKey: Guid(63228dc3a26b74d619256e88418e1ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TileRight.asset using Guid(63228dc3a26b74d619256e88418e1ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad9937e491f0db250bb360ff97a56dce') in 0.006538 seconds 
+  Import took 0.009144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Terrain/TileBack.asset
+  artifactKey: Guid(7f9c68141a8d44363aa3956b38ef3b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TileBack.asset using Guid(7f9c68141a8d44363aa3956b38ef3b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a95a8512e38cbc85658a4b527a96dab') in 0.006983 seconds 
+  Import took 0.009592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Terrain/TileLeftUp.asset
+  artifactKey: Guid(fb2086619d3934f01b978bc2ee78abaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TileLeftUp.asset using Guid(fb2086619d3934f01b978bc2ee78abaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1da08207ceb00a5f8e58f238b89eac93') in 0.006104 seconds 
+  Import took 0.008713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Terrain/TileForward.asset
+  artifactKey: Guid(ab6203957a3bd43e3a0a6a47f5c28416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TileForward.asset using Guid(ab6203957a3bd43e3a0a6a47f5c28416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cccc751c51fdf04ab614c243d8dc32ab') in 0.005755 seconds 
+  Import took 0.008327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Terrain/TileLeftUp.asset
+  artifactKey: Guid(fb2086619d3934f01b978bc2ee78abaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TileLeftUp.asset using Guid(fb2086619d3934f01b978bc2ee78abaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1da08207ceb00a5f8e58f238b89eac93') in 0.005990 seconds 
+  Import took 0.008637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.690088 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Ladders/Ladder_01.png
+  artifactKey: Guid(620def5c8baa13d4e8e6ee6f2fc64d7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Ladders/Ladder_01.png using Guid(620def5c8baa13d4e8e6ee6f2fc64d7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '940c6916665fd677b4ae3d1e7e6e74ee') in 0.011270 seconds 
+  Import took 0.014502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Ladders/Ladder_02.png
+  artifactKey: Guid(9a23dc9da5aeadf4384f2ef234210a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Ladders/Ladder_02.png using Guid(9a23dc9da5aeadf4384f2ef234210a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b6562499753017e31d881001038f259') in 0.019543 seconds 
+  Import took 0.022565 seconds .
+
