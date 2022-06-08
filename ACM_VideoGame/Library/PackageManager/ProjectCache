@@ -5,27 +5,27 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637902305530000000
-    m_Hash: 889544286
+      ticks: 637902331350000000
+    m_Hash: 1682627040
   m_LockFileStatus:
     m_FilePath: /Users/keolaiseri/Desktop/Personal Coding/Unity/ACMVideoGame/ACM_VideoGame/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637902305580000000
-    m_Hash: 557521788
+      ticks: 637902331350000000
+    m_Hash: 3814942567
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
-    - packageId: com.unity.2d.animation@5.0.6
+    - packageId: com.unity.2d.animation@5.0.10
       testable: 0
       isDirectDependency: 1
-      version: 5.0.6
+      version: 5.0.10
       source: 1
-      resolvedPath: /Users/keolaiseri/Desktop/Personal Coding/Unity/ACMVideoGame/ACM_VideoGame/Library/PackageCache/com.unity.2d.animation@5.0.6
+      resolvedPath: /Users/keolaiseri/Desktop/Personal Coding/Unity/ACMVideoGame/ACM_VideoGame/Library/PackageCache/com.unity.2d.animation@5.0.10
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
       displayName: 2D Animation
@@ -84,6 +84,7 @@ m_PackageAssets:
         - 3.2.15
         - 3.2.16
         - 3.2.17
+        - 3.2.18
         - 4.0.0
         - 4.0.1
         - 4.1.0
@@ -109,6 +110,7 @@ m_PackageAssets:
         - 5.1.0
         - 5.1.1
         - 5.2.0
+        - 5.2.1
         - 6.0.0-pre.1
         - 6.0.0-pre.2
         - 6.0.1
@@ -123,9 +125,14 @@ m_PackageAssets:
         - 7.0.2
         - 7.0.3
         - 7.0.4
+        - 7.0.5
+        - 7.0.6
         - 8.0.0-pre.3
         - 8.0.0-pre.4
         - 8.0.0
+        - 8.0.1
+        - 8.0.2
+        - 9.0.0-pre.1
         compatible:
         - 5.0.6
         - 5.0.7
@@ -135,7 +142,7 @@ m_PackageAssets:
         verified: 5.0.10
       dependencies:
       - name: com.unity.2d.common
-        version: 4.0.3
+        version: 4.0.4
       - name: com.unity.mathematics
         version: 1.1.0
       - name: com.unity.2d.sprite
@@ -146,7 +153,7 @@ m_PackageAssets:
         version: 1.0.0
       resolvedDependencies:
       - name: com.unity.2d.common
-        version: 4.0.3
+        version: 4.0.4
       - name: com.unity.2d.sprite
         version: 1.0.0
       - name: com.unity.modules.uielements
@@ -178,13 +185,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637594727470000000
+      datePublishedTicks: 637750142350000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 9e7fd5cbe078d004f1e87ecdf3b57436664a690a
+        revision: 341b7316671d7e6703a7627f67c5fab262c4f1ac
         path: 
     - packageId: com.unity.2d.pixel-perfect@4.0.1
       testable: 0
@@ -261,12 +268,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/2d.git
         revision: 7d7470f4ca0ea8353d4c9640b3b6ae9d1ebd9c1d
         path: 
-    - packageId: com.unity.2d.psdimporter@4.1.0
+    - packageId: com.unity.2d.psdimporter@4.1.3
       testable: 0
       isDirectDependency: 1
-      version: 4.1.0
+      version: 4.1.3
       source: 1
-      resolvedPath: /Users/keolaiseri/Desktop/Personal Coding/Unity/ACMVideoGame/ACM_VideoGame/Library/PackageCache/com.unity.2d.psdimporter@4.1.0
+      resolvedPath: /Users/keolaiseri/Desktop/Personal Coding/Unity/ACMVideoGame/ACM_VideoGame/Library/PackageCache/com.unity.2d.psdimporter@4.1.3
       assetPath: Packages/com.unity.2d.psdimporter
       name: com.unity.2d.psdimporter
       displayName: 2D PSD Importer
@@ -336,9 +343,12 @@ m_PackageAssets:
         - 6.0.1
         - 6.0.2
         - 6.0.3
+        - 6.0.4
         - 7.0.0-pre.3
         - 7.0.0-pre.4
         - 7.0.0
+        - 7.0.1
+        - 8.0.0-pre.1
         compatible:
         - 4.1.0
         - 4.1.1
@@ -347,14 +357,14 @@ m_PackageAssets:
         verified: 4.1.3
       dependencies:
       - name: com.unity.2d.common
-        version: 4.0.3
+        version: 4.0.4
       - name: com.unity.2d.animation
-        version: 5.0.6
+        version: 5.0.10
       - name: com.unity.2d.sprite
         version: 1.0.0
       resolvedDependencies:
       - name: com.unity.2d.common
-        version: 4.0.3
+        version: 4.0.4
       - name: com.unity.2d.sprite
         version: 1.0.0
       - name: com.unity.modules.uielements
@@ -368,7 +378,7 @@ m_PackageAssets:
       - name: com.unity.modules.uielementsnative
         version: 1.0.0
       - name: com.unity.2d.animation
-        version: 5.0.6
+        version: 5.0.10
       - name: com.unity.mathematics
         version: 1.1.0
       - name: com.unity.modules.animation
@@ -389,13 +399,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637594727750000000
+      datePublishedTicks: 637750142410000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 9e7fd5cbe078d004f1e87ecdf3b57436664a690a
+        revision: 341b7316671d7e6703a7627f67c5fab262c4f1ac
         path: 
     - packageId: com.unity.2d.sprite@1.0.0
       testable: 0
@@ -448,12 +458,12 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.unity.2d.spriteshape@5.1.3
+    - packageId: com.unity.2d.spriteshape@5.1.7
       testable: 0
       isDirectDependency: 1
-      version: 5.1.3
+      version: 5.1.7
       source: 1
-      resolvedPath: /Users/keolaiseri/Desktop/Personal Coding/Unity/ACMVideoGame/ACM_VideoGame/Library/PackageCache/com.unity.2d.spriteshape@5.1.3
+      resolvedPath: /Users/keolaiseri/Desktop/Personal Coding/Unity/ACMVideoGame/ACM_VideoGame/Library/PackageCache/com.unity.2d.spriteshape@5.1.7
       assetPath: Packages/com.unity.2d.spriteshape
       name: com.unity.2d.spriteshape
       displayName: 2D SpriteShape
@@ -540,6 +550,7 @@ m_PackageAssets:
         - 8.0.0-pre.4
         - 8.0.0-pre.5
         - 8.0.0
+        - 9.0.0-pre.1
         compatible:
         - 5.1.3
         - 5.1.4
@@ -551,16 +562,16 @@ m_PackageAssets:
       - name: com.unity.mathematics
         version: 1.1.0
       - name: com.unity.2d.common
-        version: 4.0.3
+        version: 4.0.4
       - name: com.unity.2d.path
-        version: 4.0.1
+        version: 4.0.2
       - name: com.unity.modules.physics2d
         version: 1.0.0
       resolvedDependencies:
       - name: com.unity.mathematics
         version: 1.1.0
       - name: com.unity.2d.common
-        version: 4.0.3
+        version: 4.0.4
       - name: com.unity.2d.sprite
         version: 1.0.0
       - name: com.unity.modules.uielements
@@ -574,7 +585,7 @@ m_PackageAssets:
       - name: com.unity.modules.uielementsnative
         version: 1.0.0
       - name: com.unity.2d.path
-        version: 4.0.1
+        version: 4.0.2
       - name: com.unity.modules.physics2d
         version: 1.0.0
       keywords:
@@ -596,13 +607,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637594728080000000
+      datePublishedTicks: 637750142490000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 9e7fd5cbe078d004f1e87ecdf3b57436664a690a
+        revision: 341b7316671d7e6703a7627f67c5fab262c4f1ac
         path: 
     - packageId: com.unity.2d.tilemap@1.0.0
       testable: 0
@@ -711,6 +722,9 @@ m_PackageAssets:
         - 1.14.12
         - 1.14.13
         - 1.14.15
+        - 1.14.16
+        - 1.14.17
+        - 1.14.18
         - 1.15.1
         - 1.15.4
         - 1.15.7
@@ -718,6 +732,9 @@ m_PackageAssets:
         - 1.15.12
         - 1.15.13
         - 1.15.15
+        - 1.15.16
+        - 1.15.17
+        - 1.15.18
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -743,6 +760,9 @@ m_PackageAssets:
         - 1.14.12
         - 1.14.13
         - 1.14.15
+        - 1.14.16
+        - 1.14.17
+        - 1.14.18
         - 1.15.1
         - 1.15.4
         - 1.15.7
@@ -750,6 +770,9 @@ m_PackageAssets:
         - 1.15.12
         - 1.15.13
         - 1.15.15
+        - 1.15.16
+        - 1.15.17
+        - 1.15.18
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -852,6 +875,7 @@ m_PackageAssets:
         - 3.0.10
         - 3.0.12
         - 3.0.13
+        - 3.0.14
         compatible:
         - 1.0.2
         - 1.0.6
@@ -882,13 +906,14 @@ m_PackageAssets:
         - 3.0.10
         - 3.0.12
         - 3.0.13
+        - 3.0.14
         verified: 2.0.7
       dependencies:
       - name: com.unity.test-framework
         version: 1.1.1
       resolvedDependencies:
       - name: com.unity.test-framework
-        version: 1.1.27
+        version: 1.1.31
       - name: com.unity.ext.nunit
         version: 1.0.6
       - name: com.unity.modules.imgui
@@ -916,12 +941,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
         revision: abb44f053e9a41d2e00e149e32a19bcec76e98b4
         path: 
-    - packageId: com.unity.ide.visualstudio@2.0.11
+    - packageId: com.unity.ide.visualstudio@2.0.15
       testable: 0
       isDirectDependency: 1
-      version: 2.0.11
+      version: 2.0.15
       source: 1
-      resolvedPath: /Users/keolaiseri/Desktop/Personal Coding/Unity/ACMVideoGame/ACM_VideoGame/Library/PackageCache/com.unity.ide.visualstudio@2.0.11
+      resolvedPath: /Users/keolaiseri/Desktop/Personal Coding/Unity/ACMVideoGame/ACM_VideoGame/Library/PackageCache/com.unity.ide.visualstudio@2.0.15
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -955,6 +980,7 @@ m_PackageAssets:
         - 2.0.11
         - 2.0.12
         - 2.0.14
+        - 2.0.15
         compatible:
         - 1.0.2
         - 1.0.3
@@ -973,13 +999,14 @@ m_PackageAssets:
         - 2.0.11
         - 2.0.12
         - 2.0.14
-        verified: 2.0.14
+        - 2.0.15
+        verified: 2.0.15
       dependencies:
       - name: com.unity.test-framework
         version: 1.1.9
       resolvedDependencies:
       - name: com.unity.test-framework
-        version: 1.1.27
+        version: 1.1.31
       - name: com.unity.ext.nunit
         version: 1.0.6
       - name: com.unity.modules.imgui
@@ -999,20 +1026,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637613656180000000
+      datePublishedTicks: 637841884840000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-        revision: 680e06d94ffca728223ae2cb14bb919cd354e2c1
+        revision: ca1ece42f5a2c5484ba15a15bb975ccc1f6a1a3c
         path: 
-    - packageId: com.unity.ide.vscode@1.2.3
+    - packageId: com.unity.ide.vscode@1.2.5
       testable: 0
       isDirectDependency: 1
-      version: 1.2.3
+      version: 1.2.5
       source: 1
-      resolvedPath: /Users/keolaiseri/Desktop/Personal Coding/Unity/ACMVideoGame/ACM_VideoGame/Library/PackageCache/com.unity.ide.vscode@1.2.3
+      resolvedPath: /Users/keolaiseri/Desktop/Personal Coding/Unity/ACMVideoGame/ACM_VideoGame/Library/PackageCache/com.unity.ide.vscode@1.2.5
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -1072,20 +1099,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637394922300000000
+      datePublishedTicks: 637800255360000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
-        revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
+        url: https://github.com/Unity-Technologies/com.unity.ide.vscode.git
+        revision: b0740c80bfc2440527c317109f7c3d9100132722
         path: 
-    - packageId: com.unity.test-framework@1.1.27
+    - packageId: com.unity.test-framework@1.1.31
       testable: 0
       isDirectDependency: 1
-      version: 1.1.27
+      version: 1.1.31
       source: 1
-      resolvedPath: /Users/keolaiseri/Desktop/Personal Coding/Unity/ACMVideoGame/ACM_VideoGame/Library/PackageCache/com.unity.test-framework@1.1.27
+      resolvedPath: /Users/keolaiseri/Desktop/Personal Coding/Unity/ACMVideoGame/ACM_VideoGame/Library/PackageCache/com.unity.test-framework@1.1.31
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -1133,6 +1160,7 @@ m_PackageAssets:
         - 1.1.29
         - 1.1.30
         - 1.1.31
+        - 2.0.1-exp.1
         - 2.0.1-pre.12
         - 2.0.1-pre.18
         compatible:
@@ -1140,6 +1168,7 @@ m_PackageAssets:
         - 1.1.29
         - 1.1.30
         - 1.1.31
+        - 2.0.1-exp.1
         - 2.0.1-pre.12
         - 2.0.1-pre.18
         verified: 1.1.31
@@ -1172,13 +1201,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637594751620000000
+      datePublishedTicks: 637804266210000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
-        revision: c2f2cc9b7ea61d42964257363595dff5e8c47c42
+        url: https://github.com/Unity-Technologies/com.unity.test-framework.git
+        revision: 438b0defc147c9be5c969ca79ff03a722b4590ed
         path: 
     - packageId: com.unity.textmeshpro@3.0.6
       testable: 0
@@ -3421,6 +3450,7 @@ m_PackageAssets:
         - 2.0.1-preview.1
         - 2.0.2
         - 3.0.1
+        - 3.0.2
         compatible:
         - 1.0.0-preview.2
         - 1.0.0-preview.3
@@ -3434,6 +3464,7 @@ m_PackageAssets:
         - 2.0.1-preview.1
         - 2.0.2
         - 3.0.1
+        - 3.0.2
         verified: 2.0.2
       dependencies: []
       resolvedDependencies: []
@@ -3495,6 +3526,7 @@ m_PackageAssets:
         - 1.2.1
         - 1.2.4
         - 1.2.5
+        - 1.2.6
         compatible:
         - 0.0.12-preview.2
         - 0.0.12-preview.5
@@ -3512,7 +3544,8 @@ m_PackageAssets:
         - 1.2.1
         - 1.2.4
         - 1.2.5
-        verified: 1.2.5
+        - 1.2.6
+        verified: 1.2.6
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -3537,12 +3570,12 @@ m_PackageAssets:
         url: git@github.com:Unity-Technologies/Unity.Mathematics.git
         revision: 0a3dfafaf606098ea681de4c4be60f3aac63b773
         path: 
-    - packageId: com.unity.2d.common@4.0.3
+    - packageId: com.unity.2d.common@4.0.4
       testable: 0
       isDirectDependency: 0
-      version: 4.0.3
+      version: 4.0.4
       source: 1
-      resolvedPath: /Users/keolaiseri/Desktop/Personal Coding/Unity/ACMVideoGame/ACM_VideoGame/Library/PackageCache/com.unity.2d.common@4.0.3
+      resolvedPath: /Users/keolaiseri/Desktop/Personal Coding/Unity/ACMVideoGame/ACM_VideoGame/Library/PackageCache/com.unity.2d.common@4.0.4
       assetPath: Packages/com.unity.2d.common
       name: com.unity.2d.common
       displayName: 2D Common
@@ -3568,12 +3601,17 @@ m_PackageAssets:
         - 2.0.1
         - 2.0.2
         - 2.1.0
+        - 2.1.1
+        - 2.1.2
         - 3.0.0
         - 3.0.1
         - 4.0.0
         - 4.0.1
         - 4.0.2
         - 4.0.3
+        - 4.0.4
+        - 4.1.0
+        - 4.2.0
         - 5.0.0-pre.1
         - 5.0.0-pre.2
         - 5.0.0
@@ -3581,10 +3619,17 @@ m_PackageAssets:
         - 6.0.0-pre.3
         - 6.0.0-pre.4
         - 6.0.0
+        - 6.0.1
+        - 6.0.2
+        - 6.0.3
         - 7.0.0-pre.3
+        - 7.0.0-pre.4
+        - 7.0.0
+        - 8.0.0-pre.1
         compatible:
         - 4.0.3
-        verified: 4.0.3
+        - 4.0.4
+        verified: 4.0.4
       dependencies:
       - name: com.unity.2d.sprite
         version: 1.0.0
@@ -3617,20 +3662,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637408843940000000
+      datePublishedTicks: 637750142160000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: c97def465b1932276762fc13f4cfee58da99d5e9
+        revision: 341b7316671d7e6703a7627f67c5fab262c4f1ac
         path: 
-    - packageId: com.unity.2d.path@4.0.1
+    - packageId: com.unity.2d.path@4.0.2
       testable: 0
       isDirectDependency: 0
-      version: 4.0.1
+      version: 4.0.2
       source: 1
-      resolvedPath: /Users/keolaiseri/Desktop/Personal Coding/Unity/ACMVideoGame/ACM_VideoGame/Library/PackageCache/com.unity.2d.path@4.0.1
+      resolvedPath: /Users/keolaiseri/Desktop/Personal Coding/Unity/ACMVideoGame/ACM_VideoGame/Library/PackageCache/com.unity.2d.path@4.0.2
       assetPath: Packages/com.unity.2d.path
       name: com.unity.2d.path
       displayName: 2D Path
@@ -3666,6 +3711,7 @@ m_PackageAssets:
         - 5.0.0-pre.2
         - 5.0.0
         - 5.0.1
+        - 5.0.2
         compatible:
         - 4.0.1
         - 4.0.2
@@ -3687,13 +3733,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637328350450000000
+      datePublishedTicks: 637637511040000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 7d7470f4ca0ea8353d4c9640b3b6ae9d1ebd9c1d
+        revision: 6f9c488e4d487ead34ee4d516f0a2f4a911a8b25
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
