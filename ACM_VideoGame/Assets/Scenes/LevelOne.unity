@@ -162,6 +162,7 @@ Transform:
   - {fileID: 93467311}
   - {fileID: 509993266}
   - {fileID: 321570288}
+  - {fileID: 604023230}
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1318,12 +1319,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 604023228}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.19, y: 2.65, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.26661777, y: 2.6247985, z: 0.08123283}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_Father: {fileID: 16258354}
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1183441484
 GameObject:
@@ -2043,6 +2044,7 @@ GameObject:
   - component: {fileID: 1574413538}
   - component: {fileID: 1574413539}
   - component: {fileID: 1574413540}
+  - component: {fileID: 1574413541}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -2175,6 +2177,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d0d9b25247544de0bd247a6c85d3959, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!95 &1574413541
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1574413535}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: fa35023737b844942a62d8dce7ce50a4, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1662736936
 GameObject:
   m_ObjectHideFlags: 0
@@ -2364,7 +2385,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1907622131}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.03, y: 1.46, z: 1.0173634}
+  m_LocalPosition: {x: 0.03, y: 1.46, z: 0.98}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 401290705}
