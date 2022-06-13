@@ -1,17 +1,17 @@
 ﻿<Properties StartupConfiguration="{038D755D-64BA-977C-002C-B6DDE932F3BB}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ItemCollector.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="17" Column="17" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="59" Column="10" />
       <File FileName="Assets/Scripts/CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets/ItemCollector.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ACM_VideoGame" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="PlayerMovement.cs" selected="True" />
-              </Node>
+              <Node name="Scripts" expanded="True" />
+              <Node name="ItemCollector.cs" selected="True" />
             </Node>
           </Node>
         </State>
