@@ -5,7 +5,7 @@
       <File FileName="Assets/Scripts/PlayerMovement.cs" />
       <File FileName="Assets/Scripts/CameraController.cs" />
       <File FileName="Assets/Scripts/WaypointFollower.cs" Line="24" Column="146" />
-      <File FileName="Assets/Scripts/StickyPlatform.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/StickyPlatform.cs" Line="29" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
