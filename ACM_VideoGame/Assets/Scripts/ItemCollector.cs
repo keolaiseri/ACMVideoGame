@@ -10,11 +10,14 @@ public class ItemCollector : MonoBehaviour
 
     [SerializeField] private Text controllersText;
 
+    [SerializeField] private AudioSource collectionSoundEffect;
+
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Controller"))
         {
+            collectionSoundEffect.Play();
             Destroy(collision.gameObject);
             controllers++;
             controllersText.text = "Controllers: " + controllers;

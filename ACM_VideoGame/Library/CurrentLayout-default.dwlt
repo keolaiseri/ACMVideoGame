@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 1792
     height: 1009
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Asset Store
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1792
     height: 1009
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 879, y: 342}
   m_MaxSize: {x: 10052, y: 8042}
   vertical: 0
-  controlID: 111
+  controlID: 38
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 603, y: 342}
   m_MaxSize: {x: 6051, y: 8042}
   vertical: 1
-  controlID: 112
+  controlID: 39
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 603, y: 221}
   m_MaxSize: {x: 6051, y: 4021}
   vertical: 0
-  controlID: 113
+  controlID: 40
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -647,7 +647,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 131.50146}
     m_SelectedIDs: 4a440000
     m_LastClickedID: 17482
-    m_ExpandedIDs: 0000000036440000384400003a4400003c4400003e4400004044000000ca9a3b
+    m_ExpandedIDs: 000000002e4400003044000032440000344400003644000038440000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -675,7 +675,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000036440000384400003a4400003c4400003e44000040440000
+    m_ExpandedIDs: 000000002e4400003044000032440000344400003644000038440000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
