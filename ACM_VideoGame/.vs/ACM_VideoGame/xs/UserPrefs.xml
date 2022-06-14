@@ -4,7 +4,7 @@
       <File FileName="Assets/Scripts/PlayerMovement.cs" Line="59" Column="10" />
       <File FileName="Assets/Scripts/CameraController.cs" Line="1" Column="1" />
       <File FileName="Assets/ItemCollector.cs" Line="20" Column="50" />
-      <File FileName="Assets/Scripts/PlayerLife.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerLife.cs" Line="32" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
