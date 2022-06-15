@@ -62,6 +62,7 @@
     <Compile Include="Assets/Scripts/CameraController.cs" />
     <Compile Include="Assets/Scripts/StickyPlatform.cs" />
     <Compile Include="Assets/Scripts/ItemCollector.cs" />
+    <Compile Include="Assets/Scripts/LadderMovement.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
