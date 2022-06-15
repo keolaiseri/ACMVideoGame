@@ -7,7 +7,7 @@
       <File FileName="Assets/Scripts/WaypointFollower.cs" Line="24" Column="146" />
       <File FileName="Assets/Scripts/StickyPlatform.cs" Line="29" Column="1" />
       <File FileName="Assets/Scripts/ItemCollector.cs" Line="28" Column="1" />
-      <File FileName="Assets/Scripts/LadderMovement.cs" Line="8" Column="7" />
+      <File FileName="Assets/Scripts/LadderMovement.cs" Line="28" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
