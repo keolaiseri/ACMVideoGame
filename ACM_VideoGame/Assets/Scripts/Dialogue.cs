@@ -11,6 +11,7 @@ public class Dialogue : MonoBehaviour
     public float typingSpeed;
 
     public GameObject continueButton;
+    public GameObject chatBubble;
 
 
     private void Start()
@@ -50,6 +51,8 @@ public class Dialogue : MonoBehaviour
         }
         else {
             textDisplay.text = "";
+            chatBubble.SetActive(false);
+
         }
 
     }
