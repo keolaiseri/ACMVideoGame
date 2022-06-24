@@ -801,6 +801,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Camera Collectible (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -1290,6 +1294,88 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8436440715770648675, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
   m_PrefabInstance: {fileID: 390839363}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &39294836
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 39294838}
+  - component: {fileID: 39294837}
+  m_Layer: 0
+  m_Name: GrassDown_01 (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &39294837
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 39294836}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 88ef4bfdabca9e644a0a8f1e0c592cba, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &39294838
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 39294836}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 22.41, y: -3.35, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 36
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &42837583
 GameObject:
   m_ObjectHideFlags: 0
@@ -1420,6 +1506,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Camera Collectible (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -1786,6 +1876,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Keyboard Collectible (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -2022,6 +2116,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Pencil Collectible  (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -2538,6 +2636,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pencil Collectible  (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -2975,6 +3077,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pencil Collectible  (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -3055,6 +3161,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Keyboard Collectible (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -3148,6 +3258,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Keyboard Collectible (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -3435,6 +3549,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Pencil Collectible  (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -3885,6 +4003,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Camera Collectible (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -5615,6 +5737,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Keyboard Collectible (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -5707,6 +5833,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Keyboard Collectible (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -6070,6 +6200,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kayboard Collectible (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -6267,6 +6401,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Camera Collectible (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -6393,6 +6531,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Pencil Collectible  (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -7166,6 +7308,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Camera Collectible (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -8929,6 +9075,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pencil Collectible  (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -9014,6 +9164,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Camera Collectible (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -9162,6 +9316,7 @@ Transform:
   - {fileID: 573442251}
   - {fileID: 1697449552}
   - {fileID: 32264004}
+  - {fileID: 2029311172}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -11096,6 +11251,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Keyboard Collectible (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -11598,6 +11757,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Keyboard Collectible
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -11771,6 +11934,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Camera Collectible (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -12015,6 +12182,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Camera Collectible (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -12267,6 +12438,85 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &561051745
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 561051746}
+  - component: {fileID: 561051748}
+  - component: {fileID: 561051747}
+  m_Layer: 5
+  m_Name: 'Pencil Text '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &561051746
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 561051745}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1117288071}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 256.92273, y: -167.4}
+  m_SizeDelta: {x: 423.8454, y: 59.286}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &561051747
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 561051745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 0f84aba21d3904f6b94dde50cfd5b795, type: 3}
+    m_FontSize: 24
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 1
+    m_MaxSize: 48
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'Pencils: 0'
+--- !u!222 &561051748
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 561051745}
+  m_CullTransparentMesh: 1
 --- !u!1 &561263413
 GameObject:
   m_ObjectHideFlags: 0
@@ -13064,6 +13314,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Pencil Collectible  (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -14509,6 +14763,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Camera Collectible (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -14606,6 +14864,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: 'Pencil Collectible '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -15122,6 +15384,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Keyboard Collectible (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -15470,6 +15736,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Keyboard Collectible (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -15666,6 +15936,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Keyboard Collectible (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -16928,6 +17202,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Camera Collectible (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -17388,6 +17666,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pencil Collectible  (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -17818,6 +18100,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Pencil Collectible  (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -18361,6 +18647,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Keyboard Collectible (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -18951,6 +19241,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Keyboard Collectible (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -19117,6 +19411,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Pencil Collectible  (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -19897,6 +20195,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Keyboard Collectible (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -20093,6 +20395,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Keyboard Collectible (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -20939,6 +21245,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Keyboard Collectible (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -21285,6 +21595,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Camera Collectible (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -21482,6 +21796,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pencil Collectible  (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -21602,6 +21920,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Camera Collectible (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -21990,6 +22312,10 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 1441049491}
+  - {fileID: 1650874460}
+  - {fileID: 561051746}
+  - {fileID: 1916765833}
+  - {fileID: 1158584727}
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -22674,6 +23000,85 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1158584726
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1158584727}
+  - component: {fileID: 1158584729}
+  - component: {fileID: 1158584728}
+  m_Layer: 5
+  m_Name: 'Keyboard Text  '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1158584727
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1158584726}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1117288071}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 256.92273, y: -261.1}
+  m_SizeDelta: {x: 423.8454, y: 59.286}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1158584728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1158584726}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 0f84aba21d3904f6b94dde50cfd5b795, type: 3}
+    m_FontSize: 24
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 1
+    m_MaxSize: 48
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'Keyboards: 0'
+--- !u!222 &1158584729
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1158584726}
+  m_CullTransparentMesh: 1
 --- !u!1001 &1160024448
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22684,6 +23089,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Camera Collectible (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -23324,6 +23733,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Keyboard Collectible (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -23406,6 +23819,88 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+--- !u!1 &1189563522
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1189563524}
+  - component: {fileID: 1189563523}
+  m_Layer: 0
+  m_Name: GrassDown_02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1189563523
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1189563522}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 058550cb77f069e4396c1ed3b73b21d1, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1189563524
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1189563522}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.725623, y: -5.88299, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 33
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1190007380
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23416,6 +23911,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Keyboard Collectible (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -23624,6 +24123,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pencil Collectible  (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -23704,6 +24207,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Keyboard Collectible (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -24797,6 +25304,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Camera Collectible (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -24993,6 +25504,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Pencil Collectible  (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -25505,6 +26020,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Camera Collectible (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -25815,6 +26334,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Camera Collectible (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -26163,6 +26686,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Camera Collectible (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -26767,6 +27294,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Pencil Collectible  (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -27590,6 +28121,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pencil Collectible  (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -27670,6 +28205,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Camera Collectible (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -28244,6 +28783,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pencil Collectible  (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -28460,6 +29003,88 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8436440715770648675, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
   m_PrefabInstance: {fileID: 1532237720}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1446097453
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1446097455}
+  - component: {fileID: 1446097454}
+  m_Layer: 0
+  m_Name: GrassUp
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1446097454
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1446097453}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: c33597f3b548250438320bd772ebb30e, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1446097455
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1446097453}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.383321, y: -4.350403, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 35
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1446405388
 GameObject:
   m_ObjectHideFlags: 0
@@ -28668,6 +29293,88 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1451083780
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1451083782}
+  - component: {fileID: 1451083781}
+  m_Layer: 0
+  m_Name: GrassDown_01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1451083781
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1451083780}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 88ef4bfdabca9e644a0a8f1e0c592cba, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1451083782
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1451083780}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 9.213913, y: -4.9290323, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 34
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1453929003
 GameObject:
   m_ObjectHideFlags: 0
@@ -28783,6 +29490,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Keyboard Collectible (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -28880,6 +29591,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Pencil Collectible  (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -29113,6 +29828,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Camera Collectible
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -29315,6 +30034,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pencil Collectible  (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -29395,6 +30118,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Pencil Collectible  (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -29724,6 +30451,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Pencil Collectible  (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -30690,6 +31421,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Keyboard Collectible (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -30933,6 +31668,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Camera Collectible (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -31553,6 +32292,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Keyboard Collectible (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -33191,6 +33934,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pencil Collectible  (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -33469,6 +34216,85 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1650874459
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1650874460}
+  - component: {fileID: 1650874462}
+  - component: {fileID: 1650874461}
+  m_Layer: 5
+  m_Name: 'Controllers Text '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1650874460
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1650874459}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1117288071}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 256.92273, y: -120.5}
+  m_SizeDelta: {x: 423.8454, y: 59.286}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1650874461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1650874459}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 0f84aba21d3904f6b94dde50cfd5b795, type: 3}
+    m_FontSize: 24
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 1
+    m_MaxSize: 48
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'Controllers: 0'
+--- !u!222 &1650874462
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1650874459}
+  m_CullTransparentMesh: 1
 --- !u!1 &1654141530
 GameObject:
   m_ObjectHideFlags: 0
@@ -33690,6 +34516,159 @@ RectTransform:
   m_AnchoredPosition: {x: -0.818, y: -0.394}
   m_SizeDelta: {x: 0.9623, y: 0.1186}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &1659409343
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1659409345}
+  - component: {fileID: 1659409344}
+  - component: {fileID: 1659409346}
+  m_Layer: 0
+  m_Name: Gems_01_256x256_022
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1659409344
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1659409343}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: cbdd009c473034acfb54b520b60c07c6, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1659409345
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1659409343}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 114.03, y: 0.94, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 30
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!60 &1659409346
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1659409343}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8, y: 0.8}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.081250004, y: -0.259375}
+      - {x: 0.096875004, y: -0.2375}
+      - {x: 0.115625, y: -0.20937501}
+      - {x: 0.15, y: -0.159375}
+      - {x: 0.165625, y: -0.134375}
+      - {x: 0.17812501, y: -0.11875}
+      - {x: 0.19375001, y: -0.096875004}
+      - {x: 0.2125, y: -0.06875}
+      - {x: 0.246875, y: -0.01875}
+      - {x: 0.26250002, y: 0.00625}
+      - {x: 0.275, y: 0.021875}
+      - {x: 0.290625, y: 0.04375}
+      - {x: 0.30937502, y: 0.071875}
+      - {x: 0.34375, y: 0.121875}
+      - {x: 0.359375, y: 0.14687501}
+      - {x: 0.39375, y: 0.19375001}
+      - {x: 0.39375, y: 0.203125}
+      - {x: 0.375, y: 0.22500001}
+      - {x: 0.34062502, y: 0.265625}
+      - {x: 0.32500002, y: 0.284375}
+      - {x: 0.30625, y: 0.30625}
+      - {x: 0.290625, y: 0.32500002}
+      - {x: 0.25, y: 0.36875}
+      - {x: -0.25, y: 0.36875}
+      - {x: -0.271875, y: 0.346875}
+      - {x: -0.290625, y: 0.32500002}
+      - {x: -0.32500002, y: 0.284375}
+      - {x: -0.34062502, y: 0.265625}
+      - {x: -0.359375, y: 0.24375}
+      - {x: -0.375, y: 0.22500001}
+      - {x: -0.39375, y: 0.203125}
+      - {x: -0.39375, y: 0.196875}
+      - {x: -0.359375, y: 0.14375}
+      - {x: -0.290625, y: 0.04375}
+      - {x: -0.26250002, y: 0.003125}
+      - {x: -0.19375001, y: -0.096875004}
+      - {x: -0.165625, y: -0.1375}
+      - {x: -0.096875004, y: -0.2375}
+      - {x: -0.06875, y: -0.27812502}
+      - {x: -0.034375, y: -0.328125}
+      - {x: -0.003125, y: -0.365625}
+      - {x: 0.00625, y: -0.365625}
+      - {x: 0.01875, y: -0.35}
+      - {x: 0.034375, y: -0.328125}
+      - {x: 0.053125, y: -0.3}
 --- !u!1 &1662736936
 GameObject:
   m_ObjectHideFlags: 0
@@ -34723,6 +35702,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Keyboard Collectible (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -35023,6 +36006,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Keyboard Collectible (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -35671,6 +36658,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Pencil Collectible  (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -36787,6 +37778,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Kayboard Collectible (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -38775,6 +39770,88 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1847476015
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1847476017}
+  - component: {fileID: 1847476016}
+  m_Layer: 0
+  m_Name: Crystal_02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1847476016
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1847476015}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 7a4e2a16a00a6d645b159d4890bfc3a4, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 9.6, y: 9.6}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1847476017
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1847476015}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 7.3, y: -4.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 31
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1847602618 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8436440715770648675, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
@@ -38867,6 +39944,88 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1857013931
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1857013933}
+  - component: {fileID: 1857013932}
+  m_Layer: 0
+  m_Name: VioletMushroom_02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1857013932
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1857013931}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 9cd9401400962034eb249e1823bc1917, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 4.8, y: 4.8}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1857013933
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1857013931}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5.56, y: -4.38, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 32
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1867146937
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -39811,6 +40970,85 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+--- !u!1 &1916765832
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1916765833}
+  - component: {fileID: 1916765835}
+  - component: {fileID: 1916765834}
+  m_Layer: 5
+  m_Name: 'Camera Text  '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1916765833
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1916765832}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1117288071}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 256.92273, y: -210.6}
+  m_SizeDelta: {x: 423.8454, y: 59.286}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1916765834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1916765832}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 0f84aba21d3904f6b94dde50cfd5b795, type: 3}
+    m_FontSize: 24
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 1
+    m_MaxSize: 48
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'Cameras: 0'
+--- !u!222 &1916765835
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1916765832}
+  m_CullTransparentMesh: 1
 --- !u!1 &1924100113
 GameObject:
   m_ObjectHideFlags: 0
@@ -40171,6 +41409,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Camera Collectible (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -40801,6 +42043,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Keyboard Collectible (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -41186,6 +42432,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Keyboard Collectible (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Keyboard
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -41279,6 +42529,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pencil Collectible  (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -41359,6 +42613,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Camera Collectible (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -42259,6 +43517,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pencil Collectible  (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -42708,6 +43970,88 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &2029311171
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2029311172}
+  - component: {fileID: 2029311173}
+  m_Layer: 0
+  m_Name: Crystal_01 (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2029311172
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2029311171}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.83, y: -7.05, z: 1.0173634}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 401290705}
+  m_RootOrder: 33
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &2029311173
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2029311171}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 74a5671230dc7084fa09de6ca3a551ab, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &2030738337
 GameObject:
   m_ObjectHideFlags: 0
@@ -42823,6 +44167,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pencil Collectible  (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -42903,6 +44251,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Pencil Collectible  (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -43193,6 +44545,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Camera Collectible (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
+      objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -43399,6 +44755,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Pencil Collectible  (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Pencil
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -44020,6 +45380,10 @@ PrefabInstance:
     - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Name
       value: Camera Collectible (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436440715770648672, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
+      propertyPath: m_TagString
+      value: Camera
       objectReference: {fileID: 0}
     - target: {fileID: 8436440715770648673, guid: 8da95eb73678547fc99bc0e23fb8b3b2, type: 3}
       propertyPath: m_Enabled
@@ -44828,7 +46192,23 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1737573933390058816, guid: 25a08ae3f52bb4dd28d05f738d938c88, type: 3}
+      propertyPath: camerasText
+      value: 
+      objectReference: {fileID: 1916765834}
+    - target: {fileID: 1737573933390058816, guid: 25a08ae3f52bb4dd28d05f738d938c88, type: 3}
+      propertyPath: pencilsText
+      value: 
+      objectReference: {fileID: 561051747}
+    - target: {fileID: 1737573933390058816, guid: 25a08ae3f52bb4dd28d05f738d938c88, type: 3}
+      propertyPath: keyboardsText
+      value: 
+      objectReference: {fileID: 1158584728}
+    - target: {fileID: 1737573933390058816, guid: 25a08ae3f52bb4dd28d05f738d938c88, type: 3}
       propertyPath: controllersText
+      value: 
+      objectReference: {fileID: 1650874461}
+    - target: {fileID: 1737573933390058816, guid: 25a08ae3f52bb4dd28d05f738d938c88, type: 3}
+      propertyPath: collectiblesText
       value: 
       objectReference: {fileID: 1441049492}
     - target: {fileID: 1737573933390058818, guid: 25a08ae3f52bb4dd28d05f738d938c88, type: 3}

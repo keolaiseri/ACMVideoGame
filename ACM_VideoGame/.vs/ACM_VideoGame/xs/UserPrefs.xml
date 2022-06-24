@@ -1,14 +1,14 @@
 ﻿<Properties StartupConfiguration="{038D755D-64BA-977C-002C-B6DDE932F3BB}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Dialogue.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LadderMovement.cs">
     <Files>
       <File FileName="Assets/Scripts/PlayerLife.cs" Line="42" Column="1" />
       <File FileName="Assets/Scripts/PlayerMovement.cs" />
       <File FileName="Assets/Scripts/CameraController.cs" />
       <File FileName="Assets/Scripts/WaypointFollower.cs" />
       <File FileName="Assets/Scripts/StickyPlatform.cs" />
-      <File FileName="Assets/Scripts/ItemCollector.cs" />
-      <File FileName="Assets/Scripts/LadderMovement.cs" />
-      <File FileName="Assets/Scripts/Dialogue.cs" Line="55" Column="1" />
+      <File FileName="Assets/Scripts/ItemCollector.cs" Line="68" Column="22" />
+      <File FileName="Assets/Scripts/LadderMovement.cs" Line="46" Column="1" />
+      <File FileName="Assets/Scripts/Dialogue.cs" Line="43" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

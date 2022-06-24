@@ -7,6 +7,9 @@ TagManager:
   - Controller
   - Trap
   - Ladder
+  - Pencil
+  - Camera
+  - Keyboard
   layers:
   - Default
   - TransparentFX
