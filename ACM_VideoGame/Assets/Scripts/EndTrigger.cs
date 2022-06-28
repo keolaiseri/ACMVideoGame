@@ -7,7 +7,7 @@ public class EndTrigger : MonoBehaviour
 
     public GameManager gameManager;
     public GameObject player;
-    public static ItemCollector itemCollector;
+    public ItemCollector itemCollector;
        
 
 

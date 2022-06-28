@@ -69,6 +69,15 @@ public class ItemCollector : MonoBehaviour
 
 
         }
+
+        if (controllers > pencils && controllers > keyboards && controllers > cameras)
+        {
+            Debug.Log("You are a game dev");
+        }
+        else
+        {
+            Debug.Log("Hello");
+        }
     }
 
     public void majorityCollectibles()

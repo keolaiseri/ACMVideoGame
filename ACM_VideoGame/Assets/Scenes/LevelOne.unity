@@ -6196,7 +6196,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 257006797}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 336030346}
+        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
+        m_MethodName: MainMenu
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &257006797
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8060,6 +8072,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   restartDelay: 1
   completeLevelUI: {fileID: 11648812}
+  mainMenu: Main Menu
 --- !u!4 &336030347
 Transform:
   m_ObjectHideFlags: 0
@@ -46839,11 +46852,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1737573933390058823, guid: 25a08ae3f52bb4dd28d05f738d938c88, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 110.91
+      value: -8.02
       objectReference: {fileID: 0}
     - target: {fileID: 1737573933390058823, guid: 25a08ae3f52bb4dd28d05f738d938c88, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.97
+      value: 2.04
       objectReference: {fileID: 0}
     - target: {fileID: 1737573933390058823, guid: 25a08ae3f52bb4dd28d05f738d938c88, type: 3}
       propertyPath: m_LocalPosition.z

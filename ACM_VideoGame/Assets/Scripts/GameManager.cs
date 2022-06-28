@@ -10,6 +10,8 @@ public class GameManager : MonoBehaviour
     public float restartDelay = 1f;
     public GameObject completeLevelUI;
 
+    public string mainMenu;
+
 
  
 
@@ -37,6 +39,11 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
       
+    }
+
+    public void MainMenu() {
+
+        SceneManager.LoadScene(mainMenu);
     }
 
 
