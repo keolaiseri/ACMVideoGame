@@ -22,7 +22,7 @@ public class ItemCollector : MonoBehaviour
     [SerializeField] private AudioSource collectionSoundEffect;
 
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    public void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Controller"))
         {
@@ -69,6 +69,20 @@ public class ItemCollector : MonoBehaviour
 
 
         }
+    }
+
+    public void majorityCollectibles()
+    {
+
+        if (controllers > pencils && controllers > keyboards && controllers > cameras)
+        {
+            Debug.Log("You are a game dev");
+        }
+        else {
+            Debug.Log("Hello");
+        }
+
+
     }
 
 }

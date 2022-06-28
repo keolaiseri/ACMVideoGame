@@ -1,19 +1,21 @@
 ﻿<Properties StartupConfiguration="{038D755D-64BA-977C-002C-B6DDE932F3BB}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LadderMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ItemCollector.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerLife.cs" Line="42" Column="1" />
+      <File FileName="Assets/Scripts/EndTrigger.cs" Line="10" Column="18" />
+      <File FileName="Assets/Scripts/PlayerLife.cs" Line="10" Column="28" />
       <File FileName="Assets/Scripts/PlayerMovement.cs" />
       <File FileName="Assets/Scripts/CameraController.cs" />
       <File FileName="Assets/Scripts/WaypointFollower.cs" />
       <File FileName="Assets/Scripts/StickyPlatform.cs" />
-      <File FileName="Assets/Scripts/ItemCollector.cs" Line="68" Column="22" />
+      <File FileName="Assets/Scripts/ItemCollector.cs" Line="9" Column="7" />
       <File FileName="Assets/Scripts/LadderMovement.cs" Line="46" Column="1" />
       <File FileName="Assets/Scripts/Dialogue.cs" Line="43" Column="1" />
+      <File FileName="Assets/GameManager.cs" Line="10" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d7a1a3a1-9b5b-4f59-8102-2fb781c1d43f" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2b56442f-f0c8-4099-8738-997f4b6c273f" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
