@@ -19,6 +19,8 @@ public class ItemCollector : MonoBehaviour
     [SerializeField] private Text controllersText;
     [SerializeField] private Text keyboardsText;
 
+    [SerializeField] private Text resultText;
+
     [SerializeField] private AudioSource collectionSoundEffect;
 
 
@@ -70,14 +72,8 @@ public class ItemCollector : MonoBehaviour
 
         }
 
-        if (controllers > pencils && controllers > keyboards && controllers > cameras)
-        {
-            Debug.Log("You are a game dev");
-        }
-        else
-        {
-            Debug.Log("Hello");
-        }
+        
+  
     }
 
     public void majorityCollectibles()
@@ -85,10 +81,25 @@ public class ItemCollector : MonoBehaviour
 
         if (controllers > pencils && controllers > keyboards && controllers > cameras)
         {
-            Debug.Log("You are a game dev");
+            resultText.text = "You are a game dev!";
         }
-        else {
-            Debug.Log("Hello");
+        else if (pencils > controllers && pencils > keyboards && pencils > cameras)
+        {
+            resultText.text = "You are a designer!";
+
+        }
+        else if (cameras > controllers && cameras > keyboards && cameras > pencils)
+        {
+            resultText.text = "You are a photographer";
+        }
+        else if (keyboards > controllers && keyboards > cameras && keyboards > pencils)
+        {
+            resultText.text = "You are in general creative media";
+        }
+        else
+        {
+            resultText.text = "You are in general creative media";
+
         }
 
 

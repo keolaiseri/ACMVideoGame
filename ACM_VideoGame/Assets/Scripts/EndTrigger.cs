@@ -8,7 +8,6 @@ public class EndTrigger : MonoBehaviour
     public GameManager gameManager;
     public GameObject player;
     public ItemCollector itemCollector;
-       
 
 
     private void OnTriggerEnter2D(Collider2D collision)
