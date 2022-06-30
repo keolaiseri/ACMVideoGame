@@ -24,14 +24,8 @@ public class GameManager : MonoBehaviour
     public void EndGame()
     {
 
-        if (gameHasEnded == false)
-        {
+        SceneManager.LoadScene(mainMenu);
 
-            gameHasEnded = true;
-            Debug.Log("Game Over");
-            Invoke("Restart", restartDelay);
-
-        }
     }
 
 
